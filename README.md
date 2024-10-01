@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/304c8ca5-8f0e-4740-89d2-2fc31b4bb94b)![logo](https://github.com/200355511296/200355511296/blob/main/banner.png)
+![logo](https://github.com/200355511296/200355511296/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Chathuri Wasundara</h1>
 <h3 align="center">I am a first-year undergraduate pursuing an Honours degree in Software Engineering</h3>
 
