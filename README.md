@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=200355511296&label=Profile%20views&color=0e75b6&style=flat" alt="200355511296" /> </p>
 
-- 🌱 I’m currently learning **Web Developing**
+- 🌱 I’m currently learning **software engineering**
 
 - 📫 How to reach me **chathuriw222@gmail.com**
 
