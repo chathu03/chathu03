@@ -1,6 +1,6 @@
 ![logo](https://github.com/200355511296/200355511296/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Chathuri Wasundara</h1>
-<h3 align="center">I am a undergraduate pursuing an Honours degree in Software Engineering and Statistics & Operations Research.</h3>
+<h3 align="center">I am an undergraduate pursuing an Honours degree in Software Engineering and Statistics & Operations Research.</h3>
 
 <img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b9527z0nxk425bbz485f92xiccm0uhtp0yvrcmue35em&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" >
 
